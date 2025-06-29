@@ -74,6 +74,7 @@ furnished to do so, subject to the following conditions:
    - If you intend to use this Software for commercial purposes, you agree to notify 
      the original author at [selmandemiray@outlook.com](mailto:selmandemiray@outlook.com) 
      and provide appropriate credit for the original design and inspiration.
+     This website is intended for educational purposes only. No buinsess is allowed using this website app. 
 
 3. **Legal Responsibility**:
    - The user assumes all legal responsibilities and liabilities arising from the use, 
